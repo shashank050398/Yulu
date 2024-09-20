@@ -1,5 +1,5 @@
 # Yulu
-_Problem Statement_: Analyze factors influencing the demand for shared electric cycles in India to help Yulu improve their service and
+**Problem Statement**: Analyze factors influencing the demand for shared electric cycles in India to help Yulu improve their service and
 address revenue dips.
 Target Metrics: Identify significant variables affecting cycle demand, such as weather, season, and working days. Evaluate the impact
 of these variables on cycle rentals.
